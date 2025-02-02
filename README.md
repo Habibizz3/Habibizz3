@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Habibizz3
 - 👀 I’m interested in data science and data analytics
 - 🌱 I’m currently learning excel
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ?
 - 📫 You can reach me from indtagram : @biiy_x3
-- 😄 Pronouns: ...
+- 😄 Pronouns: he
 - ⚡ Fun fact: i love math, i'm  new here
 
 <!---
